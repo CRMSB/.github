@@ -2,11 +2,11 @@
 
 The **Centre de Résonance Magnétique des Systèmes Biologiques** is a Joint Research Unit of the **CNRS** and the **University of Bordeaux**.
 
-The CRMSB develops research themes around MRI and its applications in biology and health. The laboratory is located at the interface of Engineering Sciences and Biological Sciences.
+The main research projects of the CRMSB are focused on MRI and its applications in biology and health. The laboratory is located at the interface of Engineering Sciences and Biological Sciences.
 
 ---
 
-The CRMSB team works developped sequence and reconstruction methods for Bruker Preclinical system and Siemens. 
+The CRMSB team developped sequence and reconstruction methods for Bruker Preclinical system and Siemens. 
 For most of the MR sequence, a **SEQUENCE TRANSFER AGREEMENT** is required. Please contact us at : aurelien.trotier@rmsb.u-bordeaux.fr
 
 ## Bruker
