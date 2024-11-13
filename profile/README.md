@@ -10,7 +10,9 @@ The CRMSB team developped sequence and reconstruction methods for Bruker Preclin
 For most of the MR sequence, a **SEQUENCE TRANSFER AGREEMENT** is required. Please contact us at : aurelien.trotier@rmsb.u-bordeaux.fr
 
 ## Bruker
-- MP2RAGE+CS : Accelerated 3D T1 mapping : https://github.com/aTrotier/SEQ_BRUKER_A_MP2RAGE_CS_PUBLIC
+- MP2RAGE+CS : Accelerated 3D T1 mapping :
+  - For PV6 : https://github.com/aTrotier/SEQ_BRUKER_A_MP2RAGE_CS_PUBLIC
+  - For PV360.3.5 : https://github.com/CRMSB/SEQ_BRUKER_a_MP2RAGE_CS_360
 - MESE_CS : Accelerated 3D T2 mapping : https://github.com/CRMSB/PAPER_subspace_MESE
 - Self-Gated BSSFP :  https://github.com/CRMSB/PAPER_SG-BSSFP
 - Setup for multi-parametric MRI in rat gastrocnemius during muscle stimulation : https://github.com/CRMSB/NMRBiomed_Loubrie_setup 
